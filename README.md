@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pozner88
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Pythontelegram
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Pythonе 
+- I’m looking to collaborate on ...
 - 📫 How to reach me ...https://t.me/Pozner88
 
 <!---
